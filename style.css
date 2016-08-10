@@ -57,9 +57,10 @@ h1 {
 /*MAIN LEFT (POSTS)*/
 	
 .left {
-	width: 75%;
+	width: 74%;
 	display: inline-block;
 	vertical-align: top;
+	margin-left: 1%;
 }
 
 
@@ -105,13 +106,14 @@ h1 {
 .pop_item p {
 	font-size: 0.8em;
 }
-/*.populares a {
-	display: inline-block;
+
+.month {
+	margin-left: 10px;
 }
 
-.populares p {
-	display: block;
-}*/
+.title {
+	margin-left: 25px;
+}
 
 
 
