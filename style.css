@@ -16,11 +16,25 @@ ul {
 	padding:0;
 }
 
+a {
+	color: #E08A35;
+}
+
+h4 {
+	color: #E08A35;
+}
+
+hr {
+	background-color: #F3C741;
+
+}
+
+
 /*LOGO AND BLOG TITLE*/
 
 h1 {
 	font-family: 'Amatic SC', serif;
-	color: #1F1A11;
+	color: #B53C24;
 	font-size: 6em;
 	display: inline-block;
 	margin-left: 4%;
@@ -45,6 +59,12 @@ h1 {
 	margin-top: 8px;
 	margin-left: 44%;
 }
+
+.nav_color {
+	background-color: #67A13A;
+	color: #1F1A11;
+}
+
 #icons {
 	width: 10%;
 }
@@ -53,6 +73,7 @@ h1 {
 	width: 100%;
 	margin: 10px 0px;
 }
+
 
 /*MAIN LEFT (POSTS)*/
 	
@@ -63,6 +84,40 @@ h1 {
 	margin-left: 1%;
 }
 
+.sugeridos {
+	width: 20%;
+	display: inline-block;
+}
+
+.sugeridos img {
+	width: 80%;
+	height: 130px;
+}
+
+.sugeridos p {
+	font-size: 0.8em;
+	width: 80%;
+	text-align: center;
+}
+
+.footer_post {
+	margin-bottom: 3%;
+}
+
+.footer_post h5 {
+	display: inline-block;
+}
+
+.footer_post a {
+	display: inline-block;
+}
+
+.footer_post img {
+	width: 12%;
+	display: inline-block;
+}
+
+
 
 /*MAIN RIGHT*/
 
@@ -70,6 +125,10 @@ h1 {
 	width: 24%;
 	display: inline-block;
 	margin-top: 3%;
+}
+
+.right button {
+	background-color: #F3C741;
 }
 
 .right div {
