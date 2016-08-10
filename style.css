@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
+/*GENERAL*/
+
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 16px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	border:0;
+	padding:0;
+}
+
+/*LOGO AND BLOG TITLE*/
+
+h1 {
+	font-family: 'Amatic SC', serif;
+	color: #1F1A11;
+	font-size: 6em;
+	display: inline-block;
+	margin-left: 4%;
+	vertical-align: middle;
+}
+
+.logo {
+	margin: 2%;
+	margin-left: 10%;
+}
+
+
+#bug {
+	width: 15%;
+	display: inline-block;
+}
+
+/*NAVBAR*/
+
+.col-lg-6 {
+	width: 30%;
+	margin-top: 8px;
+	margin-left: 44%;
+}
+#icons {
+	width: 10%;
+}
+
+#icons img {
+	width: 100%;
+	margin: 10px 0px;
+}
+
+/*MAIN LEFT (POSTS)*/
+	
+.left {
+	width: 75%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+/*MAIN RIGHT*/
+
+.right {
+	width: 24%;
+	display: inline-block;
+	margin-top: 3%;
+}
+
+.right div {
+	margin: 0 8% 15% 8%;
+
+}
+
+.follow img {
+	width: 12%;
+}
+
+.follow h4 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 5px;
+}
+
+.divulgue img {
+	width: 15%;
+	margin-left: 8%;
+}
+
+.populares img {
+	width: 35%;
+	vertical-align: top;
+}
+
+.pop_item {
+	display: inline-block;
+	width: 45%;
+	margin: 0px;
+}
+
+.pop_item p {
+	font-size: 0.8em;
+}
+/*.populares a {
+	display: inline-block;
+}
+
+.populares p {
+	display: block;
+}*/
+
+
+
